@@ -1,0 +1,6 @@
+Set-Content -Path ".clang-format" -Value @"
+BasedOnStyle: LLVM
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+"@
